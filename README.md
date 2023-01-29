@@ -2,8 +2,7 @@
 <p>Este curso impartido por la <b>Pontificie Universidad Católica de Chile</b> entrega las herramientas para poder trabajar con la librería Pandas. Su contenido es:  <p/>
 <p>
 <ol>
-  <li><b>Módulo 1</b></li>
-  <li>
+  <li><b>Módulo 1</b><br>
     <ul>
       <li>Ciencia de datos.</li>
       <li>Crear un DataFrame.</li>
