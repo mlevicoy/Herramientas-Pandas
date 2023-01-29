@@ -3,20 +3,20 @@
 <p>
 <ol>
   <li><b>Módulo 1</b></li>
-  <ul>
-    <li>Ciencia de datos.</li>
-    <li>Crear un DataFrame.</li>
-    <li>Tipo de datos.</li>
-    <li>Extraer columnas.</li>
-    <li>Extraer filas.</li>
-    <li>Extraer valor.</li>
-    <li>Crear columnas.</li>
-    <li>Eliminar columnas.</li>
-    <li>Estadísticos descriptivos.</li>
-    <li>Escribir en CSV.</li>
-  </ul>
-   
-   
+  <li>
+    <ul>
+      <li>Ciencia de datos.</li>
+      <li>Crear un DataFrame.</li>
+      <li>Tipo de datos.</li>
+      <li>Extraer columnas.</li>
+      <li>Extraer filas.</li>
+      <li>Extraer valor.</li>
+      <li>Crear columnas.</li>
+      <li>Eliminar columnas.</li>
+      <li>Estadísticos descriptivos.</li>
+      <li>Escribir en CSV.</li>
+    </ul>
+  </li>
 </ol>
 </p>
   
