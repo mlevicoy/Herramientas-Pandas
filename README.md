@@ -14,10 +14,10 @@
       <li>Crear columnas.</li>
       <li>Eliminar columnas.</li>
       <li>Estadísticos descriptivos.</li>
-      <li>Escribir en CSV.</li>
+      <li>Escribir en CSV.<br><br></li>
     </ul>
   </li>
-  <li><b><br><br>Módulo 2</b><br><br>
+  <li><b>Módulo 2</b><br><br>
     <ul>
       <li>Función <b>dtypes</b>.</li>
       <li>Función <b>rename</b>.</li>
@@ -27,17 +27,17 @@
       <li>Función <b>size</b>.</li>
       <li>Index de un DataFrame.</li>
       <li>Extracción básica de datos de un DataFrame.</li>
-      <li>Manejo de datos faltantes.</li>
+      <li>Manejo de datos faltantes.<br><br></li>
     </ul>
   </li>
-  <li><b><br><br>Módulo 3</b><br><br>
+  <li><b>Módulo 3</b><br><br>
     <ul>
       <li>Motivación y contectualización.</li>
       <li>Funciones de strings sobre columnas de un DataFrame.</li>
-      <li>Estructura y operaciones con DataFrames.</li>      
+      <li>Estructura y operaciones con DataFrames.<br><br></li>      
     </ul>
   </li>
-  <li><b><br><br>Módulo 4</b><br><br>
+  <li><b>Módulo 4</b><br><br>
     <ul>
       <li>Filtros avanzados de un DataFrame.</li>
       <li>Ordenar valores en un DataFrame.</li>
